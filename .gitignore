@@ -1,0 +1,20 @@
+# 环境与密钥
+.env
+*.env
+!config.example.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Playwright
+.playwright/
+
+# 运行证据：仅提交已脱敏日志（无凭证/无 chat_id），含敏感信息的原始日志勿提交
+# evidence/*.log
+
+# 系统
+.DS_Store

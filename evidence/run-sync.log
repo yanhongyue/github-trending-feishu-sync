@@ -1,0 +1,42 @@
+2026-11-18 14:52:17 [INFO] 开始采集：https://github.com/trending?since=daily（Top 10）
+2026-11-18 14:52:20 [INFO] 采集完成，共 10 条
+2026-11-18 14:52:20 [INFO] #1 elementalsouls/Claude-BugHunter | ★9840 fork=1397 today=1005 | Python
+2026-11-18 14:52:20 [INFO] #2 mvanhorn/last30days-skill | ★69363 fork=6165 today=696 | Python
+2026-11-18 14:52:20 [INFO] #3 alibaba/open-code-review | ★53936 fork=4448 today=763 | Go
+2026-11-18 14:52:20 [INFO] #4 Tencent/LoopForge | ★3512 fork=478 today=591 | Go
+2026-11-18 14:52:20 [INFO] #5 dream-num/univer | ★29410 fork=2634 today=1774 | TypeScript
+2026-11-18 14:52:20 [INFO] #6 getarcaneapp/arcane | ★9466 fork=520 today=618 | Go
+2026-11-18 14:52:20 [INFO] #7 google-labs-code/stitch-skills | ★10201 fork=1335 today=350 | TypeScript
+2026-11-18 14:52:20 [INFO] #8 cursor/plugins | ★16984 fork=1840 today=201 | TypeScript
+2026-11-18 14:52:20 [INFO] #9 obra/superpowers | ★319541 fork=28487 today=1917 | Shell
+2026-11-18 14:52:20 [INFO] #10 ag-ui-protocol/ag-ui | ★20154 fork=2078 today=1445 | TypeScript
+2026-11-18 14:52:20 [INFO] 读取多维表格现有记录…
+2026-11-18 14:52:24 [INFO] 更新记录：elementalsouls/Claude-BugHunter（排名 1）
+2026-11-18 14:52:26 [INFO] 更新记录：mvanhorn/last30days-skill（排名 2）
+2026-11-18 14:52:28 [INFO] 更新记录：alibaba/open-code-review（排名 3）
+2026-11-18 14:52:31 [INFO] 更新记录：Tencent/LoopForge（排名 4）
+2026-11-18 14:52:33 [INFO] 更新记录：dream-num/univer（排名 5）
+2026-11-18 14:52:36 [INFO] 更新记录：getarcaneapp/arcane（排名 6）
+2026-11-18 14:52:38 [INFO] 更新记录：google-labs-code/stitch-skills（排名 7）
+2026-11-18 14:52:41 [INFO] 更新记录：cursor/plugins（排名 8）
+2026-11-18 14:52:43 [INFO] 更新记录：obra/superpowers（排名 9）
+2026-11-18 14:52:45 [INFO] 更新记录：ag-ui-protocol/ag-ui（排名 10）
+2026-11-18 14:52:45 [INFO] 写入完成：新建 0 条，更新 10 条
+2026-11-18 14:52:47 [INFO] 日报已发送到测试群
+
+========================================
+GitHub Trending 日报 · 2026-11-18
+采集总数：10 条
+
+Top 3：
+  1. elementalsouls/Claude-BugHunter（今日新增 ★ 1,005）
+  2. mvanhorn/last30days-skill（今日新增 ★ 696）
+  3. alibaba/open-code-review（今日新增 ★ 763）
+
+进日报项目：
+  - alibaba/open-code-review
+    业务备注：阿里巴巴开源的AI代码审查工具，Go实现。可评估引入团队CI流程做自动化审查，需对比其与现有SonarQube的能力差异和接入成本。
+
+待复核：9 条
+多维表格：https://nw6wccbsezw.feishu.cn/base/HBCRbf8TyaSPXpsbvCkcywN4nyf?table=tblXHVBW6CGaBAjk
+========================================

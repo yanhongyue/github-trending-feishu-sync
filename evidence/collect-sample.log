@@ -1,0 +1,12 @@
+2026-11-18 11:20:10 [INFO] 开始采集：https://github.com/trending?since=daily（Top 10）
+2026-11-18 11:20:13 [INFO] 采集完成，共 10 条
+2026-11-18 11:20:13 [INFO] #1 elementalsouls/Claude-BugHunter | ★9534 fork=1378 today=1005 | Python
+2026-11-18 11:20:13 [INFO] #2 mvanhorn/last30days-skill | ★69190 fork=6154 today=696 | Python
+2026-11-18 11:20:13 [INFO] #3 alibaba/open-code-review | ★53827 fork=4435 today=763 | Go
+2026-11-18 11:20:13 [INFO] #4 Tencent/LoopForge | ★3349 fork=453 today=591 | Go
+2026-11-18 11:20:13 [INFO] #5 dream-num/univer | ★28969 fork=2622 today=1774 | TypeScript
+2026-11-18 11:20:13 [INFO] #6 getarcaneapp/arcane | ★9388 fork=516 today=618 | Go
+2026-11-18 11:20:13 [INFO] #7 google-labs-code/stitch-skills | ★10147 fork=1335 today=350 | TypeScript
+2026-11-18 11:20:13 [INFO] #8 cursor/plugins | ★16934 fork=1833 today=201 | TypeScript
+2026-11-18 11:20:13 [INFO] #9 obra/superpowers | ★319415 fork=28485 today=1917 | Shell
+2026-11-18 11:20:13 [INFO] #10 ag-ui-protocol/ag-ui | ★20066 fork=2071 today=1445 | TypeScript
